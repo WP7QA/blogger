@@ -4,4 +4,4 @@ http://tutorials.jumpstartlab.com/projects/blogger.html
 
 - TODO
 	- HAML
-	
+	- FriendlyId
